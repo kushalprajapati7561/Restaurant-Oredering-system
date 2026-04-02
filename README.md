@@ -1,1 +1,2 @@
 # Restaurant-Oredering-system
+This project is a Python-based Restaurant Ordering System developed using Object-Oriented Programming concepts. It allows customers to enter their details, browse a menu of multiple items, and place orders with quantity selection. The system manages restaurant information with a fixed owner name and generates a detailed bill including item-wise cost and GST. It demonstrates real-world implementation of OOP principles like encapsulation, class interaction, and billing logic.
